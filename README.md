@@ -1,23 +1,9 @@
-# TODO APP
+# TODO APP WITH TYPESCRIPT, TAILWIND, REACT
 
-The goal of this project is to implement basic methods and functionalities\
-to create simple frontend todo application.
+Simple and functionality based todo list app.
 
-## Tech stack
+## What I used as programming technology.
 
 - React
 - TypeScript
 - Tailwind
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `contribution`
-
-Feel free to create an issue or PR if you:
-
-- have noticed a bug
-- have better UI/UX
-- refactor components
